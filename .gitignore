@@ -1,2 +1,3 @@
 /.idea/
 /data-science-samples.iml
+*/.ipynb_checkpoints/*
